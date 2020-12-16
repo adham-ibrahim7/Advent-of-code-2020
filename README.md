@@ -18,3 +18,4 @@ each problem are listed below (numbered by day).
 13. Integer division, Chinese remainder theorem
 14. Conversion between decimal and binary, recursion
 15. Hash maps with medium difficult logic
+16. Set manipulation, difficult logic
