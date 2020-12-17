@@ -8,7 +8,7 @@ each problem are listed below (numbered by day).
 3. Logic with modular arithmetic
 4. String manipulation
 5. Binary search logic, sorting arrays
-6. Hash sets
+6. Hash Sets
 7. Depth first search
 8. Basic logic, brute force
 9. Two Sum with hash sets
@@ -19,3 +19,4 @@ each problem are listed below (numbered by day).
 14. Conversion between decimal and binary, recursion
 15. Hash maps with medium difficult logic
 16. Set manipulation, difficult logic
+17. Hash Sets
