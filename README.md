@@ -21,3 +21,4 @@ each problem are listed below (numbered by day).
 16. Set manipulation, difficult logic
 17. Hash Sets
 18. Recursion, valid parentheses parsing
+19. Memoization, Regular Languages (kind of)
