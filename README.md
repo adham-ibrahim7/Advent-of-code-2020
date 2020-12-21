@@ -23,3 +23,4 @@ each problem are listed below (numbered by day).
 18. Recursion, valid parentheses parsing
 19. Memoization, Regular Languages (kind of)
 20. ~~Face palming and crying~~ Simple logic with heavy implementation
+21. Set manipulation
