@@ -24,3 +24,4 @@ each problem are listed below (numbered by day).
 19. Memoization, Regular Languages (kind of)
 20. ~~Face palming and crying~~ Simple logic with heavy implementation
 21. Set manipulation
+22. Hash sets, recursion with medium-difficult logic
