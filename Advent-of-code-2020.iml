@@ -13,5 +13,6 @@
     <orderEntry type="jdk" jdkName="JavaSE-15" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="Python 3.9 interpreter library" level="application" />
+    <orderEntry type="library" name="algs4" level="project" />
   </component>
 </module>

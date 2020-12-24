@@ -25,3 +25,4 @@ each problem are listed below (numbered by day).
 20. ~~Face palming and crying~~ Simple logic with heavy implementation
 21. Set manipulation
 22. Hash sets, recursion with medium-difficult logic
+23. Linked lists
