@@ -22,7 +22,8 @@ each problem are listed below (numbered by day).
 17. Hash Sets
 18. Recursion, valid parentheses parsing
 19. Memoization, Regular Languages (kind of)
-20. ~~Face palming and crying~~ Simple logic with heavy implementation
+20. Simple logic with annoying implementation
 21. Set manipulation
 22. Hash sets, recursion with medium-difficult logic
 23. Linked lists
+24. Hash sets, trigonometry!
