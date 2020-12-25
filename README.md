@@ -27,3 +27,4 @@ each problem are listed below (numbered by day).
 22. Hash sets, recursion with medium-difficult logic
 23. Linked lists
 24. Hash sets, trigonometry!
+25. Binary exponentiation
